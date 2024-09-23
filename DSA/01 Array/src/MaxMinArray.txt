@@ -1,0 +1,26 @@
+Problem : We need to find max & min Element of array
+
+step 1 : we wiil take array as an input from user inside main method
+(created input array method outside main method )
+
+
+step 2 : Create maxArray method outside main method & pass given array to it
+	
+	Logic : initiate while loop 		considering max element as arr[0] 
+	if max is less than other array 	element replace it till the last 	iteration   
+	finally, return max array elemnt to the user
+
+
+step 3 : Create minArray method outside main method & pass given array to it
+
+consider max array element as int min
+now initiate while loop from i = 0 to array length
+
+if (min > num array[i])
+
+ 	min = numArray[i]
+
+return min
+
+step 4 : 
+

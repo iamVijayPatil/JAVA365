@@ -1,0 +1,17 @@
+problem : we need to reverse the array  
+
+
+step 1 : we wiil take array as an input from user inside main method
+(created input array method outside main method )
+
+step 2 : we would create a reverse method such that it would reverse the given passe array 
+
+	Logic : initiate a while loop 
+		starting from int i = 0 to 
+		arrays middle element 
+		conditions : int swap = arr[i]
+    		arr [i] = arr[last element]
+		arr[last element] = arr[i]
+
+step 3 : we will display array after reversal
+(created display array method outside main method )

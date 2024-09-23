@@ -6,6 +6,7 @@ class ReverseArray {
         System.out.println("Revwese of ur Array : ");
         ArrayUtility.displayArray(numArr);
     }
+
     public static void reverse(int arr[]){
         int i = 0 ;
         while (i < arr.length / 2){
